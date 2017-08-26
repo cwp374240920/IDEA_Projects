@@ -9,8 +9,20 @@
 <html>
   <head>
     <title>Welcome Page</title>
+    <style type="text/css">
+      div a{
+        font-family: 微软雅黑 sans-serif;
+        left: 50%;
+      }
+      a:hover{
+        color: aqua;
+      }
+    </style>
   </head>
   <body>
-    <a href="javascript:alert('清除成功');">清除缓存</a>
+  <div>
+    <p><a href="javascript:alert('清除成功');">清除缓存</a></p>
+  </div>
+
   </body>
 </html>
