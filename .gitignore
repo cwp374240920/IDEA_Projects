@@ -1,0 +1,9 @@
+# 忽略文件
+
+# IDEA工程文件
+.idea
+*.iml
+
+# 生成的class文件以及各种jar包
+classes/
+*.jar
